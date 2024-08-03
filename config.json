@@ -1,0 +1,644 @@
+{
+  "symbols": [
+    {
+      "id": "CZCE_AP",
+      "cnName": "苹果",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CZCE",
+        "AP"
+      ]
+    },
+    {
+      "id": "CZCE_CF",
+      "cnName": "棉花",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "CF"
+      ]
+    },
+    {
+      "id": "CZCE_CJ",
+      "cnName": "红枣",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CZCE",
+        "CJ"
+      ]
+    },
+    {
+      "id": "CZCE_FG",
+      "cnName": "玻璃",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "FG"
+      ]
+    },
+    {
+      "id": "CFFEX_IC",
+      "cnName": "中证500",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "IC"
+      ]
+    },
+    {
+      "id": "CFFEX_IF",
+      "cnName": "沪深300",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "IF"
+      ]
+    },
+    {
+      "id": "CFFEX_IH",
+      "cnName": "上证50",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "IH"
+      ]
+    },
+    {
+      "id": "CFFEX_IM",
+      "cnName": "中证1000",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "IM"
+      ]
+    },
+    {
+      "id": "CZCE_MA",
+      "cnName": "甲醇",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "MA"
+      ]
+    },
+    {
+      "id": "CZCE_OI",
+      "cnName": "菜油",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "OI"
+      ]
+    },
+    {
+      "id": "CZCE_PF",
+      "cnName": "短纤",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "PF"
+      ]
+    },
+    {
+      "id": "CZCE_PK",
+      "cnName": "花生",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CZCE",
+        "PK"
+      ]
+    },
+    {
+      "id": "CZCE_PX",
+      "cnName": "对二甲苯",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "PX"
+      ]
+    },
+    {
+      "id": "CZCE_RM",
+      "cnName": "菜粕",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "RM"
+      ]
+    },
+    {
+      "id": "CZCE_SA",
+      "cnName": "纯碱",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "SA"
+      ]
+    },
+    {
+      "id": "CZCE_SF",
+      "cnName": "硅铁",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CZCE",
+        "SF"
+      ]
+    },
+    {
+      "id": "CZCE_SH",
+      "cnName": "烧碱",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "SH"
+      ]
+    },
+    {
+      "id": "CZCE_SM",
+      "cnName": "锰硅",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CZCE",
+        "SM"
+      ]
+    },
+    {
+      "id": "CZCE_SR",
+      "cnName": "白糖",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "SR"
+      ]
+    },
+    {
+      "id": "CFFEX_T",
+      "cnName": "国债（10年期）",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "T"
+      ]
+    },
+    {
+      "id": "CFFEX_TF",
+      "cnName": "国债（5年期）",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "TF"
+      ]
+    },
+    {
+      "id": "CFFEX_TS",
+      "cnName": "国债（2年期）",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CFFEX",
+        "TS"
+      ]
+    },
+    {
+      "id": "CZCE_TA",
+      "cnName": "PTA",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "CZCE",
+        "TA"
+      ]
+    },
+    {
+      "id": "CZCE_UR",
+      "cnName": "尿素",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "CZCE",
+        "UR"
+      ]
+    },
+    {
+      "id": "DCE_a",
+      "cnName": "豆一",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "a"
+      ]
+    },
+    {
+      "id": "SHFE_ag",
+      "cnName": "沪银（白银）",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "ag"
+      ]
+    },
+    {
+      "id": "SHFE_al",
+      "cnName": "沪铝",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "al"
+      ]
+    },
+    {
+      "id": "SHFE_ao",
+      "cnName": "氧化铝",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "ao"
+      ]
+    },
+    {
+      "id": "SHFE_au",
+      "cnName": "沪金（黄金）",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "au"
+      ]
+    },
+    {
+      "id": "DCE_b",
+      "cnName": "豆二",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "b"
+      ]
+    },
+    {
+      "id": "SHFE_br",
+      "cnName": "合成橡胶（丁二烯橡胶）",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "br"
+      ]
+    },
+    {
+      "id": "SHFE_bu",
+      "cnName": "沥青",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "bu"
+      ]
+    },
+    {
+      "id": "DCE_c",
+      "cnName": "玉米",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "c"
+      ]
+    },
+    {
+      "id": "DCE_cs",
+      "cnName": "玉米淀粉",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "cs"
+      ]
+    },
+    {
+      "id": "SHFE_cu",
+      "cnName": "沪铜",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "cu"
+      ]
+    },
+    {
+      "id": "DCE_eb",
+      "cnName": "苯乙烯",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "eb"
+      ]
+    },
+    {
+      "id": "DCE_eg",
+      "cnName": "乙二醇",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "eg"
+      ]
+    },
+    {
+      "id": "SHFE_fu",
+      "cnName": "燃油",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "fu"
+      ]
+    },
+    {
+      "id": "SHFE_hc",
+      "cnName": "热卷（轧卷板）",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "hc"
+      ]
+    },
+    {
+      "id": "DCE_i",
+      "cnName": "铁矿石",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "i"
+      ]
+    },
+    {
+      "id": "DCE_j",
+      "cnName": "焦炭",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "j"
+      ]
+    },
+    {
+      "id": "DCE_jd",
+      "cnName": "鸡蛋",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "DCE",
+        "jd"
+      ]
+    },
+    {
+      "id": "DCE_jm",
+      "cnName": "焦煤",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "jm"
+      ]
+    },
+    {
+      "id": "DCE_l",
+      "cnName": "塑料",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "l"
+      ]
+    },
+    {
+      "id": "GFEX_lc",
+      "cnName": "碳酸锂",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "GFEX",
+        "lc"
+      ]
+    },
+    {
+      "id": "DCE_lh",
+      "cnName": "生猪",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "DCE",
+        "lh"
+      ]
+    },
+    {
+      "id": "INE_lu",
+      "cnName": "低硫燃油",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "INE",
+        "lu"
+      ]
+    },
+    {
+      "id": "DCE_m",
+      "cnName": "豆粕",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "m"
+      ]
+    },
+    {
+      "id": "SHFE_ni",
+      "cnName": "沪镍",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "ni"
+      ]
+    },
+    {
+      "id": "INE_nr",
+      "cnName": "20号胶",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "INE",
+        "nr"
+      ]
+    },
+    {
+      "id": "DCE_p",
+      "cnName": "棕榈油",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "p"
+      ]
+    },
+    {
+      "id": "SHFE_pb",
+      "cnName": "沪铅",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "pb"
+      ]
+    },
+    {
+      "id": "DCE_pg",
+      "cnName": "液化石油气",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "pg"
+      ]
+    },
+    {
+      "id": "DCE_pp",
+      "cnName": "聚丙烯",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "pp"
+      ]
+    },
+    {
+      "id": "SHFE_rb",
+      "cnName": "螺纹钢",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "rb"
+      ]
+    },
+    {
+      "id": "SHFE_ru",
+      "cnName": "橡胶",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "ru"
+      ]
+    },
+    {
+      "id": "INE_sc",
+      "cnName": "原油",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "INE",
+        "sc"
+      ]
+    },
+    {
+      "id": "GFEX_si",
+      "cnName": "工业硅",
+      "enable": true,
+      "isNight": false,
+      "symbol": [
+        "GFEX",
+        "si"
+      ]
+    },
+    {
+      "id": "SHFE_sn",
+      "cnName": "沪锡",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "sn"
+      ]
+    },
+    {
+      "id": "SHFE_sp",
+      "cnName": "纸浆",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "sp"
+      ]
+    },
+    {
+      "id": "SHFE_ss",
+      "cnName": "不锈钢",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "ss"
+      ]
+    },
+    {
+      "id": "DCE_v",
+      "cnName": "PVC（聚氯乙烯）",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "v"
+      ]
+    },
+    {
+      "id": "DCE_y",
+      "cnName": "豆油",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "DCE",
+        "y"
+      ]
+    },
+    {
+      "id": "SHFE_zn",
+      "cnName": "沪锌",
+      "enable": true,
+      "isNight": true,
+      "symbol": [
+        "SHFE",
+        "zn"
+      ]
+    }
+  ]
+}
