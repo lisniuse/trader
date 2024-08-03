@@ -69,7 +69,7 @@ def on_closed():
 # 创建一个小窗口并打开 Vue3 项目的网址
 window = webview.create_window(
   '下单员',
-  f'http://localhost:5173',
+  f'http://localhost:6987',
   width=620,
   height=540,
   resizable=False,
