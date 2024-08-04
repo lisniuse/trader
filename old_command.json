@@ -1,7 +1,8 @@
 {
-  "variety": "CZCE_CF",
-  "direction": "1",
+  "variety": "CZCE_RM",
+  "direction": "2",
   "positionType": "1",
+  "principalProportion": 10,
   "amount": 20000,
   "stopLossProportion": 5,
   "takeProfitProportion": 10

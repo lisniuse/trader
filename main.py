@@ -39,6 +39,7 @@ class Api:
 
   # 写入JSON
   def sendCommand(self, data):
+    print("调用写入")
     if isinstance(data, dict):
       # 将 JSON 对象写入文件
       with open('./command.json', 'w', encoding='utf-8') as file:
